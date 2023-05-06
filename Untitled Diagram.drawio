@@ -1,27 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T15:17:21.940Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vCMix2KSz0ub0RR7Zccd" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T15:46:36.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NXZa2a9p74ZzexkoNA_l" version="21.2.9" type="github">
   <diagram name="Page-1" id="6aqjIy7GvRXFz7WRcLJ5">
     <mxGraphModel dx="954" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="taxag1Nib_8XV-fWcnRe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-1">
+        <mxCell id="taxag1Nib_8XV-fWcnRe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="280" as="targetPoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taxag1Nib_8XV-fWcnRe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-1">
+        <mxCell id="taxag1Nib_8XV-fWcnRe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="280" as="targetPoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taxag1Nib_8XV-fWcnRe-1" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;b&gt;Frontend&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="136" height="60" as="geometry" />
+        <mxCell id="taxag1Nib_8XV-fWcnRe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="taxag1Nib_8XV-fWcnRe-5" value="&lt;b&gt;Todo File&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="taxag1Nib_8XV-fWcnRe-7" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Backend&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#D2E2E2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taxag1Nib_8XV-fWcnRe-6" value="&lt;b&gt;Test File&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="taxag1Nib_8XV-fWcnRe-12" value="Models" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-13" value="Routers" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-38" value="Complete" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-39" value="Edit" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-40" value="Create" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-41" value="Delete" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-42" value="Fetchall" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-43" value="Db Connect" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="430" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-76" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="taxag1Nib_8XV-fWcnRe-43" target="taxag1Nib_8XV-fWcnRe-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="490" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-14" value="Middleware" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-80" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="515" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-81" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="515" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-82" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="515" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-84" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="515" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="taxag1Nib_8XV-fWcnRe-85" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="515" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
