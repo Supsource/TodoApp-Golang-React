@@ -20,7 +20,7 @@ class ToDoList extends Component{
         return(
             <div>
                 <div className="row">
-                    <Header className="header" as="h2" color="yello">
+                    <Header className="header" as="h2" color="yellow">
                         TO DO LIST
                     </Header>
                 </div>
