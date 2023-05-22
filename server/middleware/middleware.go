@@ -1,6 +1,10 @@
 package middleware
 
-func GetAllTasks() {
+import (
+	"net/http"
+)
+
+func GetAllTasks(w http.ResponseWriter, r *http.Request) {
 
 }
 
